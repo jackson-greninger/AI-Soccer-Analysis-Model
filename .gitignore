@@ -1,0 +1,20 @@
+# Python cache and virtual environments
+venv/
+__pycache__/
+*.pyc
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Data and models (optional, depends on your repo)
+data/
+*.mp4
+*.avi
+*.mov
+
+# Logs and checkpoints
+*.log
+runs/
